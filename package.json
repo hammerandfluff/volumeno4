@@ -1,0 +1,13 @@
+{
+  "name": "volumeno4.com",
+  "version": "0.1.0",
+  "description": "All thing Ash at Volume No. 4",
+  "repository": "https://github.com/hammerandfluff/volumeno4",
+  "author": "lkwdwrd",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo 'hi'",
+    "testAll": "composer test && npm test"
+  },
+  "devDependencies": {}
+}
