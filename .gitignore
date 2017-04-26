@@ -3,6 +3,7 @@ wp-content/*
 !wp-content/object-cache.php
 !wp-content/themes/
 wp-content/themes/*
+!wp-content/themes/dara/
 !wp-content/plugins/
 wp-content/plugins/*
 
